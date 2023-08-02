@@ -72,6 +72,17 @@ margin: 15px;
     display: flex;
     justify-content: space-between;
 }
+
+.images-second img{
+height: 300px;
+width: 300px;
+margin-left: 50px;
+}
+
+.image-subtext p{
+    margin-left: 50px;
+}
+
 .images-second div{
     flex: auto;
 }
